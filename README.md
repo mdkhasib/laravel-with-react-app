@@ -8,13 +8,13 @@ This is a full-stack Todo application built with **React.js** for the frontend a
 
 ## Features
 
-* User registration and login with authentication
-* Add, edit, and delete todos
-* Mark todos as completed
-* Mobile responsive UI
-* API communication with Laravel backend
-* Protected routes for authenticated users
-* Context API for global state management
+- User registration and login with authentication
+- Add, edit, and delete todos
+- Mark todos as completed
+- Mobile responsive UI
+- API communication with Laravel backend
+- Protected routes for authenticated users
+- Context API for global state management
 
 ---
 
@@ -123,25 +123,25 @@ frontend/ (React)
 
 ## API Endpoints (Laravel)
 
-* `POST /api/register` - Register new user
-* `POST /api/login` - Login user and get token
-* `GET /api/todos` - Get list of todos (authenticated)
-* `POST /api/todos` - Create new todo
-* `PUT /api/todos/{id}` - Update todo
-* `DELETE /api/todos/{id}` - Delete todo
-* `POST /api/logout` - Logout user
+- `POST /api/register` - Register new user
+- `POST /api/login` - Login user and get token
+- `GET /api/todos` - Get list of todos (authenticated)
+- `POST /api/todos` - Create new todo
+- `PUT /api/todos/{id}` - Update todo
+- `DELETE /api/todos/{id}` - Delete todo
+- `POST /api/logout` - Logout user
 
 ---
 
 ## Technologies / Libraries Used
 
-* React.js
-* React Router
-* Axios
-* Tailwind CSS (optional)
-* Laravel 12
-* Laravel Sanctum
-* MySQL
+- React.js
+- React Router
+- Axios
+- Tailwind CSS (optional)
+- Laravel 12
+- Laravel Sanctum
+- MySQL
 
 ---
 
